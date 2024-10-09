@@ -1,5 +1,8 @@
+# CARD GAME
+
 A simple twin card finding game prepared with HTML, CSS, Javascript.
 
-## Screenshots
+## Screenshot
 
-![Uygulama Ekran Görüntüsü]([https://raw.githubusercontent.com/vehbipekpak/simple-document-notification/main/screenshots/1.PNG](https://raw.githubusercontent.com/vehbipekpak/card-game/refs/heads/main/Screenshot.png))
+
+![Logo](https://raw.githubusercontent.com/vehbipekpak/card-game/refs/heads/main/Screenshot.png)
